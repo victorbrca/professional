@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Victor Mendonça</title>
+    <link>http://127.0.0.1:1313/publication/</link>
+    <description>Recent content in Publications on Victor Mendonça</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Victor Mendonça</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>wazem.blogspot.com</title>
+      <link>http://127.0.0.1:1313/publication/blogspot/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:1313/publication/blogspot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LPI Level 1 - Test 101: Certification Study Guide</title>
+      <link>http://127.0.0.1:1313/publication/lpi-level1-test101/</link>
+      <pubDate>Mon, 22 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:1313/publication/lpi-level1-test101/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
