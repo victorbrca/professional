@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Victor Mendonça</title>
-    <link>http://127.0.0.1:1313/publication_types/2/</link>
+    <link>https://victormendonca.github.io/publication_types/2/</link>
     <description>Recent content in 2 on Victor Mendonça</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>wazem.blogspot.com</title>
-      <link>http://127.0.0.1:1313/publication/blogspot/</link>
+      <link>https://victormendonca.github.io/publication/blogspot/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1:1313/publication/blogspot/</guid>
+      <guid>https://victormendonca.github.io/publication/blogspot/</guid>
       <description></description>
     </item>
     

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Victor Mendonça</title>
-    <link>http://127.0.0.1:1313/categories/</link>
+    <link>https://victormendonca.github.io/categories/</link>
     <description>Recent content in Categories on Victor Mendonça</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>

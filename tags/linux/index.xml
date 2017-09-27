@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Victor Mendonça</title>
-    <link>http://127.0.0.1:1313/tags/linux/</link>
+    <link>https://victormendonca.github.io/tags/linux/</link>
     <description>Recent content in Linux on Victor Mendonça</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Mississauga LUG</title>
-      <link>http://127.0.0.1:1313/project/mlug/</link>
+      <link>https://victormendonca.github.io/project/mlug/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1:1313/project/mlug/</guid>
+      <guid>https://victormendonca.github.io/project/mlug/</guid>
       <description>
 
 &lt;h1 id=&#34;about-mlug&#34;&gt;About MLUG&lt;/h1&gt;

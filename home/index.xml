@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Victor Mendonça</title>
-    <link>http://127.0.0.1:1313/home/</link>
+    <link>https://victormendonca.github.io/home/</link>
     <description>Recent content in Homes on Victor Mendonça</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>

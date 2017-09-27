@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>5 on Victor Mendonça</title>
-    <link>http://127.0.0.1:1313/publication_types/5/</link>
+    <link>https://victormendonca.github.io/publication_types/5/</link>
     <description>Recent content in 5 on Victor Mendonça</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>LPI Level 1 - Test 101: Certification Study Guide</title>
-      <link>http://127.0.0.1:1313/publication/lpi-level1-test101/</link>
+      <link>https://victormendonca.github.io/publication/lpi-level1-test101/</link>
       <pubDate>Mon, 22 Oct 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1:1313/publication/lpi-level1-test101/</guid>
+      <guid>https://victormendonca.github.io/publication/lpi-level1-test101/</guid>
       <description></description>
     </item>
     
