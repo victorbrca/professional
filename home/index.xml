@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Victor Mendonça</title>
-    <link>http://geekit.ca/home/</link>
+    <link>https://geekit.ca/home/</link>
     <description>Recent content in Homes on Victor Mendonça</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Victor Mendonça</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://geekit.ca/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geekit.ca/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://geekit.ca/home/about/</link>
+      <link>https://geekit.ca/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://geekit.ca/home/about/</guid>
+      <guid>https://geekit.ca/home/about/</guid>
       <description>Biography Victor is an independent IT contractor with strong Linux background living in Toronto.
 His company, GeekIT Consulting Inc., specializes in Linux, and for the past few years, in the design and deployment of Manhattan’s WMOS (Warehouse Management Open Systems), a supply chain software stack solution by Manhattan Associates. Some of his clients are well known names in the Canadian industry (like LCBO, Shoppers Drug Mart and Home Hardware).</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>http://geekit.ca/home/publications_selected/</link>
+      <link>https://geekit.ca/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://geekit.ca/home/publications_selected/</guid>
+      <guid>https://geekit.ca/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://geekit.ca/home/projects/</link>
+      <link>https://geekit.ca/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://geekit.ca/home/projects/</guid>
+      <guid>https://geekit.ca/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Work Experience</title>
-      <link>http://geekit.ca/home/experience/</link>
+      <link>https://geekit.ca/home/experience/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://geekit.ca/home/experience/</guid>
+      <guid>https://geekit.ca/home/experience/</guid>
       <description>WMOS Manhattan Support (Consultant) LCBO, Toronto, ON Aug 2019 - Mar 2020
 Responsibilities  Install SDNs in lower-level and production environments Create shell scripts and wrappers for scheduler (Control-M) Support technical application issues Setup system and app monitoring (SolarWinds) Review and identify design gaps and provide solutions  Achievements (chronological order)  Created numerous infrastructure documentation (server layouts, monitoring indexes, load balancer rule list, startup script dependency, endpoint configuration) Created multiple startup/shutdown scripts for different scenarios Configured monitoring for many different application components with email and Slack (messaging) alerts Standardized environment loading scripts and automated the deployment to lower level environments with Ansible Created multiple knowledge base articles  WMOS Systems Integration Consultant Home Hardware Stores Ltd - May 2012 - Present</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://geekit.ca/home/contact/</link>
+      <link>https://geekit.ca/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://geekit.ca/home/contact/</guid>
+      <guid>https://geekit.ca/home/contact/</guid>
       <description></description>
     </item>
     

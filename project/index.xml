@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Victor Mendonça</title>
-    <link>http://geekit.ca/project/</link>
+    <link>https://geekit.ca/project/</link>
     <description>Recent content in Projects on Victor Mendonça</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Victor Mendonça</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://geekit.ca/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geekit.ca/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mississauga LUG</title>
-      <link>http://geekit.ca/project/mlug/</link>
+      <link>https://geekit.ca/project/mlug/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://geekit.ca/project/mlug/</guid>
+      <guid>https://geekit.ca/project/mlug/</guid>
       <description>About MLUG https://mississaugalug.ca/
 Mississauga LUG is a group of Linux users that meet once a month in a pub in Mississauga to share a beer, exchange information and talk just about anything.
 We welcome everyone, from the new user to the Linux veteran, including any other Unix-like OS user.
