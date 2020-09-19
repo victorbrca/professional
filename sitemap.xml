@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/post/</loc>
+      <loc>http://geekit.ca/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/tags/academic/</loc>
+      <loc>http://geekit.ca/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +23,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/talk/example-talk/</loc>
+      <loc>http://geekit.ca/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/publication/</loc>
+      <loc>http://geekit.ca/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +41,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/talk/</loc>
+      <loc>http://geekit.ca/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,7 +50,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/publication/blogspot/</loc>
+      <loc>http://geekit.ca/publication/blog/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +59,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/project/mlug/</loc>
+      <loc>http://geekit.ca/project/mlug/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/post/getting-started/</loc>
+      <loc>http://geekit.ca/post/getting-started/</loc>
       <lastmod>2017-09-03T00:00:00-04:00</lastmod>
     </url>
     
@@ -77,7 +77,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/post/widgets/</loc>
+      <loc>http://geekit.ca/post/widgets/</loc>
       <lastmod>2016-04-19T00:00:00-04:00</lastmod>
     </url>
     
@@ -86,7 +86,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/post/managing-content/</loc>
+      <loc>http://geekit.ca/post/managing-content/</loc>
       <lastmod>2016-04-18T00:00:00-04:00</lastmod>
     </url>
     
@@ -95,7 +95,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/post/writing-markdown-latex/</loc>
+      <loc>http://geekit.ca/post/writing-markdown-latex/</loc>
       <lastmod>2016-04-17T00:00:00-04:00</lastmod>
     </url>
     
@@ -104,7 +104,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/post/migrate-from-jekyll/</loc>
+      <loc>http://geekit.ca/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00-04:00</lastmod>
     </url>
     
@@ -113,7 +113,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/publication/lpi-level1-test101/</loc>
+      <loc>http://geekit.ca/publication/lpi-level1-test101/</loc>
       <lastmod>2007-10-22T00:00:00+00:00</lastmod>
     </url>
     
@@ -122,7 +122,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/publication_types/2/</loc>
+      <loc>http://geekit.ca/publication_types/2/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -132,7 +132,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/publication_types/5/</loc>
+      <loc>http://geekit.ca/publication_types/5/</loc>
       <lastmod>2007-10-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -142,7 +142,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/categories/</loc>
+      <loc>http://geekit.ca/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -151,7 +151,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/tags/hugo/</loc>
+      <loc>http://geekit.ca/tags/hugo/</loc>
       <lastmod>2017-09-03T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -161,7 +161,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/tags/jekyll/</loc>
+      <loc>http://geekit.ca/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -171,7 +171,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/tags/linux/</loc>
+      <loc>http://geekit.ca/tags/linux/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -181,7 +181,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/project/</loc>
+      <loc>http://geekit.ca/project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -191,7 +191,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/publication_types/</loc>
+      <loc>http://geekit.ca/publication_types/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -201,7 +201,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/tags/</loc>
+      <loc>http://geekit.ca/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -211,7 +211,7 @@
     
     <url>
     
-      <loc>https://victorbrca.github.io/professional/</loc>
+      <loc>http://geekit.ca/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
