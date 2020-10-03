@@ -23,12 +23,14 @@ His company, GeekIT Consulting Inc., specializes in Linux, and for the past few 
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://geekit.ca/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <title>Work Experience</title>
+      <link>https://geekit.ca/home/experience/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://geekit.ca/home/publications_selected/</guid>
-      <description></description>
+      <guid>https://geekit.ca/home/experience/</guid>
+      <description>Download my Resume here.
+WMOS Manhattan Support (Consultant) LCBO, Toronto, ON Aug 2019 - Mar 2020
+Responsibilities  Install weekly patches in lower-level and production environments Create shell scripts and wrappers for scheduler (Control-M) Support technical application issues Setup system and app monitoring (SolarWinds) Review and identify design gaps and provide solutions  Achievements (chronological order)  Composed numerous infrastructure documents (server layouts, monitoring indexes, load balancer rule list, startup script dependency, endpoint configuration) Scripted multiple application startup/shutdown scripts for different scenarios Configured monitoring for different application components with email and Slack (messaging) alerts Standardized environment loading scripts and automated the deployment to lower level environments with Ansible Authored multiple knowledge base articles  WMOS Systems Integration Consultant Home Hardware Stores Ltd - May 2012 - Present</description>
     </item>
     
     <item>
@@ -41,13 +43,12 @@ His company, GeekIT Consulting Inc., specializes in Linux, and for the past few 
     </item>
     
     <item>
-      <title>Work Experience</title>
-      <link>https://geekit.ca/home/experience/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Publications</title>
+      <link>https://geekit.ca/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://geekit.ca/home/experience/</guid>
-      <description>WMOS Manhattan Support (Consultant) LCBO, Toronto, ON Aug 2019 - Mar 2020
-Responsibilities  Install SDNs in lower-level and production environments Create shell scripts and wrappers for scheduler (Control-M) Support technical application issues Setup system and app monitoring (SolarWinds) Review and identify design gaps and provide solutions  Achievements (chronological order)  Created numerous infrastructure documentation (server layouts, monitoring indexes, load balancer rule list, startup script dependency, endpoint configuration) Created multiple startup/shutdown scripts for different scenarios Configured monitoring for many different application components with email and Slack (messaging) alerts Standardized environment loading scripts and automated the deployment to lower level environments with Ansible Created multiple knowledge base articles  WMOS Systems Integration Consultant Home Hardware Stores Ltd - May 2012 - Present</description>
+      <guid>https://geekit.ca/home/publications_selected/</guid>
+      <description></description>
     </item>
     
     <item>

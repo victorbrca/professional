@@ -85,9 +85,9 @@
         
 
         <li class="nav-item">
-          <a href="/#publications_selected" data-target="#publications_selected">
+          <a href="/#experience" data-target="#experience">
             
-            <span>Publications</span>
+            <span>Work Experience</span>
           </a>
         </li>
 
@@ -109,9 +109,9 @@
         
 
         <li class="nav-item">
-          <a href="/#experience" data-target="#experience">
+          <a href="/#publications_selected" data-target="#publications_selected">
             
-            <span>Work Experience</span>
+            <span>Publications</span>
           </a>
         </li>
 
@@ -272,7 +272,7 @@
           <li>
             <i class="fa-li fa fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">Puppet Professional Certification, 2015</p>
+              <p class="course">Puppet Certified Professional, 2015</p>
               <p class="institution">Puppet Labs, Inc.</p>
             </div>
           </li>
@@ -306,139 +306,165 @@
 
   
   
-  <section id="publications_selected" class="home-section">
+  <section id="experience" class="home-section">
     <div class="container">
       
 
 
-
 <div class="row">
   <div class="col-xs-12 col-md-4 section-heading">
-    <h1>Publications</h1>
+    <h1>Work Experience</h1>
     
   </div>
   <div class="col-xs-12 col-md-8">
     
 
-    
-      
-        <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
-  <div class="row">
+<p>Download my Resume <a href="./Resume_2020-09.pdf">here</a>.</p>
 
-    
+<h3 id="wmos-manhattan-support-consultant">WMOS Manhattan Support (Consultant)</h3>
 
-    <div class="col-md-12">
+<p><em><strong>LCBO, Toronto, ON</strong></em>
+<em>Aug 2019 - Mar 2020</em></p>
 
-    
+<h4 id="responsibilities">Responsibilities</h4>
 
-      <h3 class="article-title" itemprop="name">
-        <a href="https://geekit.ca/publication/blog/" itemprop="url">Technical Blog</a>
-      </h3>
+<ul>
+<li>Install weekly patches in lower-level and production environments</li>
+<li>Create shell scripts and wrappers for scheduler (Control-M)</li>
+<li>Support technical application issues</li>
+<li>Setup system and app monitoring (SolarWinds)</li>
+<li>Review and identify design gaps and provide solutions</li>
+</ul>
 
-      <div class="pub-abstract" itemprop="text">
-        
-        Technical/Linux blog
-        
-      </div>
+<h4 id="achievements-chronological-order">Achievements (chronological order)</h4>
 
-      <div class="pub-authors" itemprop="author">
-        
-        Victor Mendonça
-        
-      </div>
+<ul>
+<li>Composed numerous infrastructure documents (server layouts, monitoring indexes, load balancer rule list, startup script dependency, endpoint configuration)</li>
+<li>Scripted multiple application startup/shutdown scripts for different scenarios</li>
+<li>Configured monitoring for different application components with email and Slack (messaging) alerts</li>
+<li>Standardized environment loading scripts and automated the deployment to lower level environments with Ansible</li>
+<li>Authored multiple knowledge base articles</li>
+</ul>
 
-      <div class="pub-publication">
-        Toronto, ON,&nbsp;2017.
-      </div>
+<hr />
 
-      <div class="pub-links">
-        
+<h3 id="wmos-systems-integration-consultant">WMOS Systems Integration Consultant</h3>
 
+<p><strong><em>Home Hardware Stores Ltd</em></strong> -
+<em>May 2012 - Present</em></p>
 
+<h4 id="responsibilities-1">Responsibilities</h4>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://geekit.ca/publication/blog/">
-  Details
-</a>
+<ul>
+<li>Responsible for the initial design, install and documentation of the Manhattan logistics application stack (EEM/MIF <sup>2011</sup>&frasl;<sub>2015</sub>, WMOS/MIF <sup>2012</sup>&frasl;<sub>2016</sub> and Vocollect 5.0/5.1) on RHEL 5.6 through 7.2</li>
+<li>Design load balancing, fail-over and high availability rules for the core warehouse application and it’s components</li>
+<li>Setup application availability monitoring for all apps via WhatsUp Gold (Ipswitch), JBOSS Operations Network and numerous Bash scripts</li>
+<li>Provide day to day support during project and warranty phases, followed by second level support for production</li>
+<li>Build and maintenance of 14+ environments</li>
+</ul>
 
+<h4 id="achievements-chronological-order-1">Achievements (chronological order)</h4>
 
+<ul>
+<li>Constructed a unified system environment profile (Bash) that loaded application variables and aliases based on the server it was being executed on</li>
+<li>Introduced an internal forum that was utilized as knowledge base by the middleware team</li>
+<li>Designed a start page with links to documents and applications that became a standard launch page for the IT infrastructure/project team</li>
+<li>Authored and maintained a server/environment layout document that was later adopted by the IT infrastructure/project team</li>
+<li>Introduced version control by moving all middleware code to an in-house GitLab server</li>
+<li>Coded numerous support and admin/maintenance scripts and aliases (over 20000 lines of code) used by the middleware team (like printer setup, SSL configuration, system check aliases, etc&hellip;)</li>
+<li>Developed a sync script in Bash that downloaded code from a GitLab repo and automatic synced it to servers based on server type</li>
+<li>Configured post Git commit scripts to automatically deploy code to web servers</li>
+<li>Moved all cron jobs for the lower-level environment servers to a centralized scheduling solution (Rundeck)</li>
+<li>Converted the server setup and application install processes to Ansible, cutting down the install time from 4 days to 20 mins</li>
+<li>Converted the sync script to Ansible</li>
+</ul>
 
+<hr />
 
+<h3 id="wms-system-admin">WMS System Admin</h3>
 
+<p><strong><em>Shoppers Drug Mart</em></strong> -
+<em>June 2010 - May 2012</em></p>
 
+<h4 id="tech-lead">Tech Lead</h4>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://blog.victormendonca.com/">
-  Project
-</a>
+<ul>
+<li>Provided support for all (WMS) Warehouse Management System software (Manhattan’s WM, LM, SCI and Vocollect) including RF scanning devices, voice picking devices and printers</li>
+<li>Administered 4 environments (DEV, SIT, TRN, UAT, PROD), consisting of 15 AIX servers, 12 HP-UX servers and 35 Windows servers</li>
+<li>Applied weekly patches (Windows, Unix and DB) to applications on all environments</li>
+<li>Introduced a Oracle sqlplus wrapper to minimize user errors during vendor patches. The script was sent upstream to the vendor and became standard for software delivery for the project</li>
+<li>Came up with the logic and method of comparing binaries and script versions between two systems</li>
+<li>Designed a solution for a system limitation on the amount of incoming SSH connections via script logic</li>
+</ul>
 
+<h4 id="jr-technical-designer">Jr Technical Designer</h4>
 
+<ul>
+<li>Working as junior design/engineer for Manhattans business integration application (EIS), oversaw the design, install and configuration of the application on new environments, including build books and support documentation</li>
+<li>Designed a solution for monitoring application, application transactions and database via custom korn and pl/sql scripts, and HP OVO</li>
+<li>Designed the logic behind a script that handled load balancing, fail over and disaster recovery</li>
+<li>Involved in the design and implementation of the Warehouse and Labor Management systems (WM/LM app and web), the BI application (SCI) and the voice picking and devices stack (Vocollect) on all environments</li>
+</ul>
 
-      </div>
+<hr />
 
-    </div>
-  </div>
-</div>
+<h3 id="product-support-specialist">Product Support Specialist</h3>
 
-      
-    
-      
-        <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
-  <div class="row">
+<p><strong><em>Accubid Systems</em></strong> -
+<em>October 2007 - June 2010</em></p>
 
-    
+<h4 id="responsibilities-2">Responsibilities</h4>
 
-    <div class="col-md-12">
+<ul>
+<li>Provided product support on the leader software developer for professional electrical, mechanical and structural cabling estimates</li>
+<li>Support included: installation, software removal, troubleshooting and extensive knowledge of the product</li>
+<li>Dealt with MS-SQL installations</li>
+</ul>
 
-    
+<h4 id="achievements">Achievements</h4>
 
-      <h3 class="article-title" itemprop="name">
-        <a href="https://geekit.ca/publication/lpi-level1-test101/" itemprop="url">LPI Level 1 - Test 101: Certification Study Guide</a>
-      </h3>
+<ul>
+<li>Decreased the amount of calls by creating various documentations with instructions for the most common problems. These allowed clients to resolve common issues without having to contact support</li>
+<li>Reduced time when migrating clients by creating a package that allowed the conversion of files when skipping one or more versions. Before the package existed it was necessary to install all versions of the program to sequentially convert the files</li>
+</ul>
 
-      <div class="pub-abstract" itemprop="text">
-        
-        An extensive study guide for the LPI’s certification LPIC-1 (Exam 101)
-        
-      </div>
+<hr />
 
-      <div class="pub-authors" itemprop="author">
-        
-        Victor Mendonça
-        
-      </div>
+<h3 id="3com-level-2-tech-support">3Com - Level 2 Tech Support</h3>
 
-      <div class="pub-publication">
-        Mississauga, ON,&nbsp;2007.
-      </div>
+<p><strong><em>Siemens Canada</em></strong> -
+<em>April 2005 - October 2007</em></p>
 
-      <div class="pub-links">
-        
+<h4 id="wireless-tech-support">Wireless Tech Support</h4>
 
+<ul>
+<li>Provided Tech Support on Wireless and entry level network products (ADSL/DSL routers, APs, switches, wireless switch managers, etc&hellip;)</li>
+<li>Setup a forum, chat and product information/start page for L2 technicians resulting into a centralized point of reference for all agents</li>
+<li>Involved in two Six Sigma projects to decrease AHT</li>
+</ul>
 
+<h4 id="acting-team-lead">Acting Team Lead</h4>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://geekit.ca/publication/lpi-level1-test101/">
-  Details
-</a>
+<ul>
+<li>Monitored Queue and assigned calls to agents making sure that SLA level stayed within the requirements</li>
+</ul>
 
+<h4 id="floor-walker">Floor Walker</h4>
 
-<a class="btn btn-primary btn-outline btn-xs" href="http://www.mcmcse.com/linux/LPI_101_Study_Guide.pdf">
-  PDF
-</a>
+<ul>
+<li>Helped agents with questions in regards to process during region take over</li>
+<li>Responsible for solving RMA problems for the whole US and Canadian region (RDR)</li>
+<li>Created a detailed manual of the process above when task was transferred to another department</li>
+</ul>
 
+<h4 id="level-1-agent">Level 1 Agent</h4>
 
-
-
-
-
-
-
-      </div>
-
-    </div>
-  </div>
-</div>
-
-      
-    
+<ul>
+<li>Customer Service representative for 3Com call center</li>
+<li>Dealt with RMAs, web registration support and solved order issues</li>
+<li>Point of escalation between Brazilian client’s and service escalation</li>
+<li>Designed a start page for Portuguese agents and a pre-made interactive script page for faster case documentation</li>
+</ul>
 
   </div>
 </div>
@@ -477,30 +503,24 @@
 
     
 
-    <div id="container-projects" class="row isotope">
+    <div id="container-projects" class="isotope">
+      <ul class="fa-ul" style="position: relative">
 
-      
-      
-      
-      
-      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item linux">
-        <div class="card">
+        
+        <li class="project-item isotope-item linux">
+          <span class="project-title">
           
-          <a href="https://geekit.ca/project/mlug/" title="" class="card-image hover-overlay"
-             >
-            <img src="/img/logo_mid.png" alt="" class="img-responsive">
+          <a href="https://geekit.ca/project/mlug/">
+          
+          <i class="fa-li fa fa-files-o pub-icon" aria-hidden="true"></i>
+          Mississauga LUG
           </a>
-          
-          <div class="card-text">
-            <h4><a href="https://geekit.ca/project/mlug/" >Mississauga LUG</a></h4>
-            <div class="card-desription">
-              <p>Official Linux User Group for Mississauga</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      
+          </span>
+          <p class="project-summary">Official Linux User Group for Mississauga</p>
+        </li>
+        
 
+      </ul>
     </div>
 
     
@@ -513,157 +533,77 @@
 
   
   
-  <section id="experience" class="home-section">
+  <section id="publications_selected" class="home-section">
     <div class="container">
       
 
 
+
 <div class="row">
   <div class="col-xs-12 col-md-4 section-heading">
-    <h1>Work Experience</h1>
+    <h1>Publications</h1>
     
   </div>
   <div class="col-xs-12 col-md-8">
     
 
-<h3 id="wmos-manhattan-support-consultant">WMOS Manhattan Support (Consultant)</h3>
+    
+      
+          <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">Technical Blog</span>
+  <p>
 
-<p><em><strong>LCBO, Toronto, ON</strong></em>
-<em>Aug 2019 - Mar 2020</em></p>
 
-<h4 id="responsibilities">Responsibilities</h4>
 
-<ul>
-<li>Install SDNs in lower-level and production environments</li>
-<li>Create shell scripts and wrappers for scheduler (Control-M)</li>
-<li>Support technical application issues</li>
-<li>Setup system and app monitoring (SolarWinds)</li>
-<li>Review and identify design gaps and provide solutions</li>
-</ul>
+<a class="btn btn-primary btn-outline btn-xs" href="https://geekit.ca/publication/blog/">
+  Details
+</a>
 
-<h4 id="achievements-chronological-order">Achievements (chronological order)</h4>
 
-<ul>
-<li>Created numerous infrastructure documentation (server layouts, monitoring indexes, load balancer rule list, startup script dependency, endpoint configuration)</li>
-<li>Created multiple startup/shutdown scripts for different scenarios</li>
-<li>Configured monitoring for many different application components with email and Slack (messaging) alerts</li>
-<li>Standardized environment loading scripts and automated the deployment to lower level environments with Ansible</li>
-<li>Created multiple knowledge base articles</li>
-</ul>
 
-<hr />
 
-<h3 id="wmos-systems-integration-consultant">WMOS Systems Integration Consultant</h3>
 
-<p><strong><em>Home Hardware Stores Ltd</em></strong> -
-<em>May 2012 - Present</em></p>
 
-<h4 id="responsibilities-1">Responsibilities</h4>
 
-<ul>
-<li>Responsible for initial design, install and documentation for Manhattan logistics application (WM and Vocollect)</li>
-<li>Designed fail over and load balancing rules for core warehouse application</li>
-<li>Implemented application availability monitoring for all apps via WhatsUpGold, and JBOSS components via JON (JBOSS Operations Network)</li>
-<li>Provided day to day support to the project team and second level support for production</li>
-<li>Build and maintenance of 14x environments</li>
-</ul>
+<a class="btn btn-primary btn-outline btn-xs" href="https://blog.victormendonca.com/">
+  Project
+</a>
 
-<h4 id="achievements-chronological-order-1">Achievements (chronological order)</h4>
 
-<ul>
-<li>Designed a single user profile that loaded application environment variables and aliases based on environment and server type</li>
-<li>Created a start page with links to documents and core apps used by all project teams</li>
-<li>Created a repository for application scripts and a install utility (similar to apt-get) for downloading scripts to application servers</li>
-<li>Created an internal forum used as knowledge base by the project/support middleware team</li>
-<li>Created a centralized server management script (in bash) that allowed administrators to register servers, add ssh-keys to servers, push scripts and run commands on multiple servers</li>
-<li>Created a install script that automated most of the application patch installs (bash and JBOSS)</li>
-<li>Moved all server code for the project to Git (Omnibus GitLab)</li>
-<li>Moved all cron jobs for project servers to a centralized server running Rundeck</li>
-<li>Implemented Puppet with Git (for 12 environments) and auto deployment of server/application code and configuration</li>
-</ul>
+</p>
+</div>
 
-<hr />
+      
+    
+      
+          <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">LPI Level 1 - Test 101: Certification Study Guide</span>
+  <p>
 
-<h3 id="wms-system-admin">WMS System Admin</h3>
 
-<p><strong><em>Shoppers Drug Mart</em></strong> -
-<em>June 2010 - May 2012</em></p>
 
-<h4 id="tech-lead">Tech Lead</h4>
+<a class="btn btn-primary btn-outline btn-xs" href="https://geekit.ca/publication/lpi-level1-test101/">
+  Details
+</a>
 
-<ul>
-<li>Provided support for all (WMS) Warehouse Management System software (Manhattan&rsquo;s WM, LM, SCI and Vocollect) including RF
-scanning devices, voice picking devices and printers</li>
-<li>Administered 4 environments (DEV, SIT, TRN, 2x UAT, 4x PROD), consisting of 15 AIX servers, 12 HP-UX servers and 35 Windows
-servers</li>
-<li>Applied weekly patches (Windows, Unix and DB) to applications on all environments</li>
-<li>Created a standard Oracle sqlplus wrapper for sql scripts which became a standard for the project and department</li>
-<li>Developed a logic and method of comparing binaries and script versions between two systems</li>
-<li>Created a solution for a system limitation on the amount of SSH connections coming into a system via script logic</li>
-</ul>
 
-<h4 id="jr-technical-designer">Jr Technical Designer</h4>
+<a class="btn btn-primary btn-outline btn-xs" href="http://www.mcmcse.com/linux/LPI_101_Study_Guide.pdf">
+  PDF
+</a>
 
-<ul>
-<li>Working as junior design/engineer for Manhattans business integration application (EIS), was in charge of the design, install and
-configuration of the application on new environments, including build books and support documents</li>
-<li>Provided solution for monitoring application, application transactions and database via custom korn and pl/sql scripts, and HP OVO</li>
-<li>Created logic behind fail over via script and load balancer from primary node to HA, and primary site to DR</li>
-<li>Involved in the design and implementation of WM/LM (app and web), SCI and Vocollect on all environments</li>
-</ul>
 
-<hr />
 
-<h3 id="product-support-specialist">Product Support Specialist</h3>
 
-<p><strong><em>Accubid Systems</em></strong> -
-<em>October 2007 - June 2010</em></p>
 
-<ul>
-<li>Provided product Tech Support on the leader software developer for professional electrical, mechanical and structural cabling estimating</li>
-<li>Support included: installation, software removal, troubleshooting and extensive knowledge of the product</li>
-<li>Dealt with MS-SQL installations</li>
-<li>Decreased the amount of calls by creating various documentations with instructions for the most common problems. These allowed clients to resolve common issues without having to contact support</li>
-<li>Reduced time when migrating clients by creating a package that allowed the conversion of files when skipping one or more versions. Before the package was created it was necessary to install all versions of the program to sequentially convert the files</li>
-</ul>
 
-<hr />
 
-<h3 id="3com-level-2-tech-support">3Com - Level 2 Tech Support</h3>
+</p>
+</div>
 
-<p><strong><em>Siemens Canada</em></strong> -
-<em>April 2005 - October 2007</em></p>
-
-<h4 id="wireless-tech-support">Wireless Tech Support</h4>
-
-<ul>
-<li>Provided Tech Support on Wireless products and entry level network products (ADSL/DSL routers, APs, switches, wireless switch managers, etc…)</li>
-<li>Developed a forum, chat and product information/start page for L2 technicians resulting into a centralized point of reference for all agents</li>
-<li>Involved in two Six Sigma projects to decrease AHT</li>
-</ul>
-
-<h4 id="acting-team-lead">Acting Team Lead</h4>
-
-<ul>
-<li>Monitored Queue and assigned calls to agents making sure that SLA level stayed within the requirements</li>
-</ul>
-
-<h4 id="floor-walker">Floor Walker</h4>
-
-<ul>
-<li>Helped agents with questions in regards to process during region take over</li>
-<li>Responsible for solving RMA problems for the whole US and Canadian region (RDR)</li>
-<li>Created a detailed manual of the process above when task was transferred to another department</li>
-</ul>
-
-<h4 id="level-1-agent">Level 1 Agent</h4>
-
-<ul>
-<li>Customer Service representative for 3Com call center</li>
-<li>Created RMAs, web registration support and solved order issues</li>
-<li>Point of escalation between Brazilian client’s and service escalation</li>
-<li>Developed a start page for Portuguese agents and a pre-made interactive script page for faster case documentation</li>
-</ul>
+      
+    
 
   </div>
 </div>
