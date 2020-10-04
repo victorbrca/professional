@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Victor Mendonça</title>
+    <link>https://geekit.ca/publication_types/7/</link>
+    <description>Recent content in 7 on Victor Mendonça</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Victor Mendonça</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geekit.ca/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Technical Blog</title>
+      <link>https://geekit.ca/publication/blog/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekit.ca/publication/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
