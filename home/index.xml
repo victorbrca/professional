@@ -29,7 +29,8 @@ His company, GeekIT Consulting Inc., specializes in Linux, and for the past few 
       
       <guid>https://geekit.ca/home/experience/</guid>
       <description>Download my Resume here.
-WMOS Manhattan Support (Consultant) LCBO, Toronto, ON Aug 2019 - Mar 2020
+Linux Administrator Fujitsu Americas, Toronto, ON - Dec 2020 - Present
+ Supported a cluster of WildFly applications running on Azure infrastructure with Active MQ and SQL Server backend Created shell scripts to automate operational tasks Refined update process by adding checks, updated tools and automation components Improved documentation  WMOS Manhattan Support (Consultant) LCBO, Toronto, ON - Aug 2019 - Mar 2020
 Responsibilities  Install weekly patches in lower-level and production environments Create shell scripts and wrappers for scheduler (Control-M) Support technical application issues Setup system and app monitoring (SolarWinds) Review and identify design gaps and provide solutions  Achievements (chronological order)  Composed numerous infrastructure documents (server layouts, monitoring indexes, load balancer rule list, startup script dependency, endpoint configuration) Scripted multiple application startup/shutdown scripts for different scenarios Configured monitoring for different application components with email and Slack (messaging) alerts Standardized environment loading scripts and automated the deployment to lower level environments with Ansible Authored multiple knowledge base articles  WMOS Systems Integration Consultant Home Hardware Stores Ltd - May 2012 - Present</description>
     </item>
     
