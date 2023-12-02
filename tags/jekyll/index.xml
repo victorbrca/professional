@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Victor Mendonça</copyright>
-    <lastBuildDate>Mon, 10 Mar 2014 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2014 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://geekit.ca/tags/jekyll/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Migrate from Jekyll to Hugo</title>
       <link>https://geekit.ca/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 -0300</pubDate>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 -0400</pubDate>
       
       <guid>https://geekit.ca/post/migrate-from-jekyll/</guid>
       <description>Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s getting started guide.
