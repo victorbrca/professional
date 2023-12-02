@@ -52,11 +52,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://geekit.ca/post/widgets/">
+  <link rel="canonical" href="https://geekit.ca/project/bash-config/">
 
   
 
-  <title>Customizing the homepage with widgets | Victor Mendonça</title>
+  <title>bash-config | Victor Mendonça</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -151,77 +151,56 @@
 </nav>
 
 
-<article class="article" itemscope itemtype="http://schema.org/Article">
+<article class="article article-project" itemscope itemtype="http://schema.org/Article">
 
   
+<div class="article-header">
+  <img src="/img/bash-config.png" class="article-banner" itemprop="image">
+  
+</div>
+
 
 
   <div class="article-container">
-    <h1 itemprop="name">Customizing the homepage with widgets</h1>
-    
 
-<div class="article-metadata">
-
-  <span class="article-date">
-    
-    <time datetime="2016-04-19 00:00:00 -0400 EDT" itemprop="datePublished">
-      Apr 19, 2016
-    </time>
-  </span>
-
-  
-
-  
-  
-  
-  <span class="article-tags">
-    <i class="fa fa-tags"></i>
-    
-    <a href="/tags/academic">academic</a
-    >, 
-    
-    <a href="/tags/hugo">hugo</a
-    >
-    
-  </span>
-  
-  
-
-  
-  
+    <div class="pub-title">
+      <h1 itemprop="name">bash-config</h1>
+      <span class="pub-authors" itemprop="author">&nbsp;</span>
+      <span class="pull-right">
+        
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fgeekit.ca%2fpost%2fwidgets%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fgeekit.ca%2fproject%2fbash-config%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Customizing%20the%20homepage%20with%20widgets&amp;url=https%3a%2f%2fgeekit.ca%2fpost%2fwidgets%2f"
+         href="https://twitter.com/intent/tweet?text=bash-config&amp;url=https%3a%2f%2fgeekit.ca%2fproject%2fbash-config%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fgeekit.ca%2fpost%2fwidgets%2f&amp;title=Customizing%20the%20homepage%20with%20widgets"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fgeekit.ca%2fproject%2fbash-config%2f&amp;title=bash-config"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fgeekit.ca%2fpost%2fwidgets%2f&amp;title=Customizing%20the%20homepage%20with%20widgets"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fgeekit.ca%2fproject%2fbash-config%2f&amp;title=bash-config"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Customizing%20the%20homepage%20with%20widgets&amp;body=https%3a%2f%2fgeekit.ca%2fpost%2fwidgets%2f">
+         href="mailto:?subject=bash-config&amp;body=https%3a%2f%2fgeekit.ca%2fproject%2fbash-config%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -229,106 +208,85 @@
 </div>
 
 
-  
+      </span>
+    </div>
 
-</div>
+    
 
     <div class="article-style" itemprop="articleBody">
-      
+      <p><a href="https://github.com/victorbrca/bash-config" target="_blank">victorbrca/bash-config</a></p>
 
-<p>Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:</p>
+<p>A simple Bash framework, similar to <code>bash-it</code>.</p>
 
-<ul>
-<li>About/biography</li>
-<li>Selected publications</li>
-<li>Recent publications</li>
-<li>Recent news/blog posts</li>
-<li>Projects</li>
-<li>Selected talks</li>
-<li>Recent talks</li>
-<li>Contact</li>
-<li>Tag cloud</li>
-<li>Custom widget (demonstrated with the <em>teaching</em> example)</li>
-</ul>
+<p>Multiple plug-ins and themes are available.</p>
 
-<p>The example site that you copied to create your site uses all the different types of widget (except talks), so you can generally just delete the widgets you don&rsquo;t need and customize the parameters of the widgets you wish to keep.</p>
+<p>You can use <code>bash-config list</code> or <code>bash-config plugins</code> to list all plugins and themes available:</p>
 
-<p>The parameters for each widget vary. They can be found in the preamble/frontmatter (between the pair of <code>+++</code>) for each widget installed in the <code>content/home/</code> folder.</p>
+<pre><code>bash-config Plugins and Themes
 
-<div class="alert alert-note">
-  <p>By default, publications will be displayed in a simple list. If you prefer a more detailed list with abstract and image, you can enable the detailed publication list on the homepage by setting <code>list_format = 2</code> in <code>content/home/publications.md</code>.</p>
+Plugins
+[x] ansible                    Ansible aliases
+[ ] apt                        apt and dpkg aliases
+[x] bash-aliases               Aliases for Bash
+[ ] bash-colors
+[x] bash-inputrc               Configs for Bash's inputrc
+[x] bashrc                     Settings for Bash
+[x] bpm-tools                  Aliases for id3 tag an mp3 file
+[x] dd                         dd aliases
+[x] exa                        exa aliases
+[x] files                      File manipulation aliases
+[x] fzf                        fzf aliases
+[x] git                        Git aliases
+[x] hugo                       Hugo aliases
+[x] kde                        Aliases for KDE
+[x] lastpass-cli               Aliases for lastpass-cli
+[ ] less                       Aliases for less
+[ ] lsd                        lsd aliases
+[ ] ls                         ls aliases
+[x] markdown                   Aliases for markdown files
+[x] media                      Misc media manipulation aliases
+[x] networking                 Mist networking aliases
+[x] notification               Misc notification aliases
+[x] pacman                     Aliases for pacman
+[x] screen                     Aliases for GNU Screen
+[x] ssl-tools                  Aliases for SSL
+[x] systemd                    SystemD aliases
+[x] trash-cli                  Converts rm to use trash-cli
+[x] vim                        Aliases for vim
+[ ] yaourt                     Aliases for yaourt
+[x] yay                        Aliases for yay
+[ ] yum                        Aliases for yum
+[ ] zypper                     Aliases for zypper
 
-</div>
-
-
-<h2 id="add-a-widget-to-the-homepage">Add a widget to the homepage</h2>
-
-<p>To add a widget manually, copy the relevant widget from <code>themes/academic/exampleSite/content/home/</code> to your <code>content/home/</code> folder.</p>
-
-<p>Widget identifiers are set to their respective filenames, so a <code>content/home/about.md</code> widget can be linked from the navigation bar by setting the relevant URL as <code>&quot;#about&quot;</code> in <code>config.toml</code>.</p>
-
-<p>This means that if you want to use multiple instances of a widget, each widget will be assigned a unique ID based on the filename that you set. You can then use that ID for linking, like in the above example.</p>
-
-<h2 id="using-the-custom-widget">Using the custom widget</h2>
-
-<p>You can use the custom widget to create your own home page sections.</p>
-
-<p>Simply duplicate (copy/paste) and rename the example <em>teaching</em> file at <code>content/home/teaching.md</code>. Then edit the section title, weight (refer to <em>Ordering sections</em> below), and content as desired.</p>
-
-<p>You may also wish to add a navigation link to the top of the page that points to the new section. This can be achieved by adding something similar to the following lines to your <code>config.toml</code>, where the URL will consist of the first title word in lowercase:</p>
-
-<pre><code>[[menu.main]]
-    name = &quot;Research&quot;
-    url = &quot;#research&quot;
-    weight = 10
+Themes
+[ ] bubble-lines               A cool and bubbly Bash prompt
+[ ] powerlevel10k-clone        A clone of powerlevel10k
+[x] powerlevel5k               A clone of powerlevel10k
+[ ] powerline-2column          A simplified powerline prompt
+[ ] powerline-simple           A simplified powerline prompt
+[ ] simple-git                 Displays a simple prompt with Git info
+[ ] simple                     Displays a simple prompt
 </code></pre>
 
-<h2 id="remove-a-widget-from-the-homepage">Remove a widget from the homepage</h2>
-
-<p>If you do not require a particular widget, you can simply delete any associated files from the <code>content/home/</code> folder.</p>
-
-<p>To remove a navigation link from the top of the page, remove the associated <code>[[menu.main]]</code> entry in <code>config.toml</code>.</p>
-
-<h2 id="ordering-widgets">Ordering widgets</h2>
-
-<p>The order that the homepage widgets are displayed in is defined by the <code>weight</code> parameter in each of the files in the <code>content/home/</code> directory. The widgets are displayed in ascending order of their <code>weight</code>, so you can simply edit the <code>weight</code> parameters as desired.</p>
-
     </div>
+
   </div>
-
 </article>
-
-
-
-<div class="article-container">
-  <h3>Related</h3>
-  <ul>
-    
-    <li><a href="/post/managing-content/">Managing content</a></li>
-    
-  </ul>
-</div>
-
 
 <div class="container">
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://geekit.ca/post/managing-content/"><span
-      aria-hidden="true">&larr;</span> Managing content</a></li>
+    <li class="previous"><a href="https://geekit.ca/project/mlug/"><span
+      aria-hidden="true">&larr;</span> Mississauga LUG</a></li>
     
 
     
-    <li class="next"><a href="https://geekit.ca/post/getting-started/">Getting started with the Academic framework for Hugo <span
+    <li class="next"><a href="https://geekit.ca/project/rhce-practice-env/">RHCE v8 Practice Enviroment <span
       aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>
-
-</div>
-
-<div class="article-container">
-  
 
 </div>
 
