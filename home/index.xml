@@ -29,8 +29,8 @@ His company, GeekIT Consulting Inc., specializes in Linux, and for many years, i
       
       <guid>https://geekit.ca/home/experience/</guid>
       <description>Download my Resume here.
-Linux Administrator Fujitsu Americas, Toronto, ON - Dec 2020 - Dec 2023
- Managed a cluster of 40 WildFly servers on RHEL 7 operating system, hosted on Azure infrastructure with Active MQ as the message broker and Azure SQL Database as the backend. Managed and executed daily operational tasks on the Azure cloud platform, encompassing tasks such as resource provisioning, monitoring, troubleshooting, backup and recovery, performance tuning, and patching.</description>
+Linux Administrator (Consultant) Wawanesa Insurance, Toronto, ON - Jan 2024 - Apr 2025
+ Managed on-prem and cloud Linux servers consisting of RHEL and Amazon Linux Responsible for Linux OS patching, support and configuration Created documentation for various day-to-day activity improving team consistency when executing tasks Automated Satellite content view publish/promotion/clean up, and maintenance via Ansible playbooks, decreasing the time spent on activities and minimizing the chance for human error Automated ServiceNow changes and requests creation with Ansible, as well as new incident handling and closing  Linux Administrator Fujitsu Americas, Toronto, ON - Dec 2020 - Dec 2023</description>
     </item>
     
     <item>
