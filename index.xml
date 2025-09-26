@@ -13,12 +13,10 @@
     <item>
       <title>RHCE v8 Practice Enviroment</title>
       <link>https://geekit.ca/project/rhce-practice-env/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://geekit.ca/project/rhce-practice-env/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/victorbrca/rhce8-practice-env&#34; target=&#34;_blank&#34;&gt;victorbrca/rhce8-practice-env&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A repo that can be used to create a RHEL 8 lab environment, using Vagrant, VirtualBox, and Ansible. This environment can be used to practice for the RHCE v8 exam.&lt;/p&gt;
+      <description>&lt;p&gt;A repo that can be used to create a RHEL 8 lab environment, using Vagrant, VirtualBox, and Ansible. This environment can be used to practice for the RHCE v8 exam.&lt;/p&gt;
 
 &lt;p&gt;The lab environment consists of 1x control node (RHEL server with GUI), one local repo server, and 4x additional nodes.&lt;/p&gt;
 
@@ -31,6 +29,16 @@ node4
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;A few practice exams are also included.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RHCSA Community Study Guide</title>
+      <link>https://geekit.ca/project/rhsca-study-guide/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekit.ca/project/rhsca-study-guide/</guid>
+      <description>&lt;p&gt;A community study guide for anyone that wants to study for the RHCSA exam. The idea is that anyone preparing for the exam can use the information here, as well as contribute (add, update, correct) to make it better. The aim is to have a free and Open Source study guide that is always up to date and with the best content.&lt;/p&gt;
 </description>
     </item>
     

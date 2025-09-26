@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rhce on Victor Mendonça</title>
+    <link>https://geekit.ca/tags/rhce/</link>
+    <description>Recent content in Rhce on Victor Mendonça</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Victor Mendonça</copyright>
+    <lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://geekit.ca/tags/rhce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RHCE v8 Practice Enviroment</title>
+      <link>https://geekit.ca/project/rhce-practice-env/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekit.ca/project/rhce-practice-env/</guid>
+      <description>A repo that can be used to create a RHEL 8 lab environment, using Vagrant, VirtualBox, and Ansible. This environment can be used to practice for the RHCE v8 exam.
+The lab environment consists of 1x control node (RHEL server with GUI), one local repo server, and 4x additional nodes.
+control repo node1 node2 node3 node4  A few practice exams are also included.</description>
+    </item>
+    
+  </channel>
+</rss>

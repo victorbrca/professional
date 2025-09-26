@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Victor Mendonça</copyright>
-    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://geekit.ca/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,13 +15,21 @@
     <item>
       <title>RHCE v8 Practice Enviroment</title>
       <link>https://geekit.ca/project/rhce-practice-env/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://geekit.ca/project/rhce-practice-env/</guid>
-      <description>victorbrca/rhce8-practice-env
-A repo that can be used to create a RHEL 8 lab environment, using Vagrant, VirtualBox, and Ansible. This environment can be used to practice for the RHCE v8 exam.
+      <description>A repo that can be used to create a RHEL 8 lab environment, using Vagrant, VirtualBox, and Ansible. This environment can be used to practice for the RHCE v8 exam.
 The lab environment consists of 1x control node (RHEL server with GUI), one local repo server, and 4x additional nodes.
 control repo node1 node2 node3 node4  A few practice exams are also included.</description>
+    </item>
+    
+    <item>
+      <title>RHCSA Community Study Guide</title>
+      <link>https://geekit.ca/project/rhsca-study-guide/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://geekit.ca/project/rhsca-study-guide/</guid>
+      <description>A community study guide for anyone that wants to study for the RHCSA exam. The idea is that anyone preparing for the exam can use the information here, as well as contribute (add, update, correct) to make it better. The aim is to have a free and Open Source study guide that is always up to date and with the best content.</description>
     </item>
     
     <item>
